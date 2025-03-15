@@ -1,12 +1,52 @@
-# React + Vite
+# 🎨 Palette Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Palette Studio** is a modern and visually appealing color palette generator built with **React.js** and **Tailwind CSS**. It allows users to create, customize, and save unique color palettes with a sleek and minimal UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎨 Generate new color palettes
+- 📋 Copy color codes to clipboard
+- 🗑️ Remove individual colors
+- ➕ Add custom colors
+- 💾 Save color palettes
+- 🌓 Light/Dark mode toggle for better UI experience
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** (Component-based UI)
+- **Tailwind CSS** (Utility-first styling)
+- **Lucide Icons** for minimal icons
+
+## 🖌️ Installation Guide
+
+1. Clone the repository:
+   ```sh
+   Clone the repository:
+
+2. Navigate to the project folder:
+   ```sh
+   cd palette-studio
+
+3. Install dependencies:
+   ```sh
+   npm install
+
+4. Run the development server:
+   ```sh
+   npm run dev
+
+
+## 🎯 Functionalities
+
+1. Generate random color palettes
+2. Copy HEX codes to clipboard
+3. Add and remove color cards
+4. Save palettes locally
+5. Light/Dark mode support
+
+
+## 🙌 Contribution
+Contributions are welcome! Feel free to fork the repo and create pull requests.
+
+
+## Made with 💖 by Vikash
